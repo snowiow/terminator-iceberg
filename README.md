@@ -1,6 +1,6 @@
 # terminator-iceberg
 ![terminator iceberg](https://github.com/snowiow/terminator-iceberg/blob/master/screenshots/terminator-iceberg.png)
-A color theme for [terminator](http://www.tenshu.net/terminator/) using  cocopons [iceberg color scheme](http://cocopon.me/app/vim-iceberg/).
+A color theme for [terminator](https://gnometerminator.blogspot.de/p/introduction.html) using  cocopons [iceberg color scheme](http://cocopon.me/app/vim-iceberg/).
 
 ## Installation
 Install the terminator configuration file:
